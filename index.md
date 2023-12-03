@@ -1,10 +1,9 @@
 ---
 layout: default
 ---
+[Materials Research Lab, IIT Bombay](https://www.me.iitb.ac.in/~a_jain/).
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Materials Research Lab, IIT Bombay](https://www.me.iitb.ac.in/~a_jain/).
 
 There should be whitespace between paragraphs.
 
