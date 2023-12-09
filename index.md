@@ -1,4 +1,8 @@
-## About Me
+---
+layout: default
+---
+
+# About Me
 
 I am a researcher, doing my Ph.D. in Mechanical Engineering at the Indian Institute of Technology Bombay [(IITB)](https://www.iitb.ac.in/). 
 
