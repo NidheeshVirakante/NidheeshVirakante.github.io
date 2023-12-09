@@ -4,4 +4,7 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 
+github:
+  orcid_url: https://orcid.org/0009-0009-9513-2623
+
 
