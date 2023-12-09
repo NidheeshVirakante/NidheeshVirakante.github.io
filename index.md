@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-<img src="1_1.jpg" width="20%" height="20%"> 
+<p align="center">
+  <img width="20%" height="20%" src="1_1.jpg">
+</p>
 # About Me
 I am a researcher, doing my Ph.D. in Mechanical Engineering at the Indian Institute of Technology Bombay [(IITB)](https://www.iitb.ac.in/). 
 
