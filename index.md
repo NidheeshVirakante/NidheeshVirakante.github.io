@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![me](https://github.com/NidheeshVirakante/NidheeshVirakante.github.io/issues/1#issue-2033965777) 
+![me](1.jpg) 
 # About Me
 I am a researcher, doing my Ph.D. in Mechanical Engineering at the Indian Institute of Technology Bombay [(IITB)](https://www.iitb.ac.in/). 
 
