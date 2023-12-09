@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![me](1.jpg) 
+<img src="1.jpg" width="20%" height="20%"> 
 # About Me
 I am a researcher, doing my Ph.D. in Mechanical Engineering at the Indian Institute of Technology Bombay [(IITB)](https://www.iitb.ac.in/). 
 
