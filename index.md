@@ -8,4 +8,6 @@ I am part of the Materials Research Lab [(MRL)](https://www.me.iitb.ac.in/~a_jai
 
 My work focuses on understanding the phonon-driven thermal energy transport in nuclear fuel materials.
 
+# About Me
+
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
