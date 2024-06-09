@@ -4,8 +4,8 @@ title: Curriculum Vitae
 description:
 ---
 
-# to be updated
-
-**
+<p align="center">
+  <img width="100%" height="100%" src="cv.tiff">
+</p>
 
 [Take me back to Home page](./)
