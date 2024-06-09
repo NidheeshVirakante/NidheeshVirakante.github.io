@@ -15,4 +15,4 @@ My work focuses on understanding the phonon-driven thermal energy transport in n
 # Important Links
 1. [Ongoing Research Works](https://nidheeshvirakante.github.io/research.html)
   
-2. [Curriculum Vitae](cv.pdf)
+2. [Curriculum Vitae](https://nidheeshvirakante.github.io/cv.pdf)
