@@ -5,7 +5,7 @@ description:
 ---
 
 <p align="center">
-  <img width="100%" height="100%" src="cv.tiff">
+  <img width="100%" height="100%" src="cv.png">
 </p>
 
 [Take me back to Home page](./)
