@@ -13,6 +13,6 @@ I am part of the Materials Research Lab [(MRL)](https://www.me.iitb.ac.in/~a_jai
 My work focuses on understanding the phonon-driven thermal energy transport in nuclear fuel materials.
 
 <h1 style="text-align: center;">Important Links</h1> 
-<p style="text-align: center;">[Ongoing Research Works](https://nidheeshvirakante.github.io/research.html)
+[Ongoing Research Works](https://nidheeshvirakante.github.io/research.html)</p>
   
-[Curriculum Vitae](https://nidheeshvirakante.github.io/cv.pdf)</p>
+<p style="text-align: center;">[Curriculum Vitae](https://nidheeshvirakante.github.io/cv.pdf)</p>
