@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Curriculum Vitae
+description:
 ---
 
 # to be updated
