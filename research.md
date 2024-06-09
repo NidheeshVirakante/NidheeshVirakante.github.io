@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Ongoing Research Works
-description: 
+title: Research
+description: A Brief Description of Ongoing Research Works  
 ---
 
 ## First-principles Study on Phonon-mediated Thermal Energy Transport in ThO<sub>2</sub>
