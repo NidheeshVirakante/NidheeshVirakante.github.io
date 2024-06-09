@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Research Works
-description: Ongoing Research Works
+title: Ongoing Research Works
 ---
 
-## Studying thermal energy transport in ThO~2~ using first-principle calculations.
+## Studying thermal energy transport in ThO~2~ using first-principle calculations
 
 **
 
