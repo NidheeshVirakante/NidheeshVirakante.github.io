@@ -10,7 +10,7 @@ Actinide oxides like uranium dioxide and mixed oxides are the primary fuel mater
 
 [Click here to read the full paper](IHMTC_2023_final.pdf)
 <p align="center">
-  <img width="75%" height="75%" src="ihmtc.PNG">
+  <img width="80%" height="80%" src="ihmtc.PNG">
 </p>
 
 
