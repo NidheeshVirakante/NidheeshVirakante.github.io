@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Another page
+title: Research Works
 description: This is just another page
 ---
 
