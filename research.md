@@ -4,7 +4,7 @@ title: Ongoing Research Works
 description:
 ---
 
-## Studying thermal energy transport in ThO<sub>2</sub> using first-principle calculations
+## First-principles Study on Phonon-mediated Thermal Energy Transport in ThO<sub>2</sub>
 
 **
 
