@@ -8,7 +8,7 @@ My research work focuses on using atomistic simulations (lattice dynamics, molec
 
 [Article submitted for review; link will be updated later](./research.md)
 <p align="center">
-  <img width="80%" height="80%" src="">
+  <img width="80%" height="80%" src="Diatomic_chain.gif" title="source: [https://en.wikipedia.org/wiki/Phonon](https://en.wikipedia.org/wiki/Phonon)">
 </p>
 
 <h2 style="text-align: center;">Studying Phonon-mediated Thermal Energy Transport in ThO<sub>2</sub> Using Atomistic Simulations</h2> 
