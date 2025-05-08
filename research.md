@@ -24,7 +24,7 @@ Actinide oxides like uranium dioxide and mixed oxides are the primary fuel mater
 ### 2. [Revisiting thermal transport in ThO<sub>2</sub> using higher-order thermal transport physics](https://doi.org/10.1016/j.commatsci.2025.113882)
 The effect of inclusion of higher-order thermal transport physics (viz. temperature-dependent interatomic force constants, phonon renormalization, and four-phonon scattering) on the computation of phonon frequencies and lattice thermal conductivity of ThO<sub>2</sub> is explored, employing LDA, PBE, and PBEsol exchange–correlation functionals. Upon renormalization, the frequencies are stiffened for the optical phonon modes, whereas the acoustic modes remain unchanged. Thermal conductivity computed using LDA and PBEsol functionals is within 5% of the experimentally measured values at 300 K, whereas that obtained using PBE functional results in an underprediction of 25%. The temperature-dependent force constants and renormalized phonon frequencies significantly affect the computed lattice thermal conductivity at higher temperatures (40% difference at 1000 K), whereas four-phonon processes have minimal effects (only 10% at 1000 K).
 
-[Click here to read the full paper](IHMTC_2023_final.pdf)
+[Click here to read the full paper](CompMatSci_2025.pdf)
 <p align="center">
   <img width="80%" height="80%" src="cms2025.PNG">
 </p>
