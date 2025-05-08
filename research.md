@@ -30,5 +30,8 @@ The effect of inclusion of higher-order thermal transport physics (viz. temperat
   <img width="80%" height="80%" src="cms2025.PNG">
 </p>
 
+### 3. Studying the effect of defects on the thermal energy transport in ThO<sub>2</sub> 
+
+### 4. Studying the guest rotational dynamics and their effect on thermal transport in MAPbI<sub>3</sub>
 
 [Take me back to Home page](./)
