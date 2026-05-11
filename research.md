@@ -8,7 +8,7 @@ description: A Brief Description of Ongoing Research Works
 <h2 style="text-align: center;"> Atomistic Simulations for Studying Phonon-mediated Thermal Energy Transport in Materials</h2> 
 My research work focuses on using atomistic simulations (lattice dynamics, molecular dynamics) to study and understand the phonon-mediated thermal energy transport in materials for energy applications. Phonons, which are the quantized lattice vibrations, are the predominant heat energy carriers in non-metallic crystalline materials. A detailed review of the theory and advancements in the lattice-dynamics method for the calculation of thermal conductivity is given in the following article.
 
-[Article submitted for review; link will be updated later](./research.md)
+[Click here to read our review paper](JIISC_2025.pdf)
 <div align="center">
   <img src="Diatomic_chain.gif" alt="phonon" width="40%" height="40%"><br>
   <em>Figure: Diatomic chain (source: https://en.wikipedia.org/wiki/Phonon)</em>
