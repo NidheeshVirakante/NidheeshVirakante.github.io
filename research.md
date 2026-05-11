@@ -41,6 +41,7 @@ Nuclear fuels undergo irradiation during their use in the reactors, and these le
 
 ### 4. [Studying rattling-driven ultralow lattice thermal conductivity in materials](./research.md) 
 *Research work in progress; content will be updated later*
+
 [Article submitted for review; content will be updated later](./research.md)
 
 ### 5. [Studying the guest rotational dynamics and their effect on thermal transport in MAPbI<sub>3</sub>](./research.md)
