@@ -47,8 +47,5 @@ Nuclear fuels undergo irradiation during their use in the reactors, and these le
 ### 5. [Studying the guest rotational dynamics and their effect on thermal transport in MAPbI<sub>3</sub>](./research.md)
 *Research work in progress; content will be updated later*
 
-<div style="text-align: center;">
-  [Take me back to Home page](./)
-</div>
 
-
+[Take me back to Home page](./)
