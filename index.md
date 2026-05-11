@@ -10,7 +10,7 @@ I am a researcher, doing my Ph.D. in Mechanical Engineering at the Indian Instit
 
 I am part of the Materials Research Lab [(MRL)](https://www.me.iitb.ac.in/~a_jain/) at IITB, where we use computational methods to predict and understand the thermal energy transport in materials using ab-initio methods. 
 
-My work focuses on understanding the phonon-driven thermal energy transport in nuclear fuel materials.
+My work focuses on using atomistic simulations for understanding the phonon-driven thermal energy transport in materials for energy applications.
 
 ## Important Links
 1. [Ongoing Research Works](https://nidheeshvirakante.github.io/research.html)
