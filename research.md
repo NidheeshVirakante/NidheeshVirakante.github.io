@@ -1,78 +1,75 @@
 ---
 layout: default
 title: Research | Nidheesh V
-description: Ongoing and completed research works in computational thermal transport
+description: A Brief Description of Ongoing Research Works
 ---
 
 <div class="topnav">
   <a href="/">Home</a>
-  <a href="/research.html">Research</a>
+  <a href="/research.html" class="active">Research</a>
   <a href="/cv.pdf" target="_blank">CV</a>
   <a href="mailto:nidheesh.virakante@gmail.com">Contact</a>
 </div>
 
-<a href="/" style="display:inline-flex;align-items:center;gap:6px;color:#157878;font-size:0.9rem;font-weight:500;text-decoration:none;margin-top:1.5rem;display:block;">← Back to Home</a>
-
 # Research
 
-## Atomistic Simulations for Phonon-mediated Thermal Energy Transport
+## A Brief Description of Ongoing Research Works
 
-My research focuses on atomistic simulations (lattice dynamics, molecular dynamics) to study phonon-mediated thermal energy transport in materials for energy applications. Phonons — quantized lattice vibrations — are the predominant heat carriers in non-metallic crystalline materials.
+## Atomistic Simulations for Studying Phonon-mediated Thermal Energy Transport in Materials
 
-[Read our review paper (JISC 2025)](/JIISC_2025.pdf)
+My research work focuses on using atomistic simulations (lattice dynamics, molecular dynamics) to study and understand the phonon-mediated thermal energy transport in materials for energy applications. Phonons, which are the quantized lattice vibrations, are the predominant heat energy carriers in non-metallic crystalline materials. A detailed review of the theory and advancements in the lattice-dynamics method for the calculation of thermal conductivity is given in the following article.
 
----
+[Click here to read our review paper](https://nidheeshvirakante.github.io/JIISC_2025.pdf)
 
-### 1. Considerations for ab-initio based thermal conductivity prediction of ThO₂
-
-**Tags:** Ab-initio · Thermal conductivity · Nuclear fuels · IHMTC 2023
-
-Ab initio calculations using DFPT and DFT with lattice dynamics to predict harmonic and anharmonic phonon properties of ThO₂ at different temperatures. Results are in good agreement with experimental values. Investigates the effect of temperature-dependent inter-atomic force constants (IFC) on predicted thermal conductivity.
-
-[Read the full paper](/IHMTC_2023_final.pdf)
-
-![IHMTC figure](/ihmtc.PNG)
+![phonon](/Diatomic_chain.gif)
+*Figure: Diatomic chain (source: https://en.wikipedia.org/wiki/Phonon)*
 
 ---
 
-### 2. Revisiting thermal transport in ThO₂ using higher-order thermal transport physics
+## Studying Phonon-mediated Thermal Energy Transport in ThO₂ Using Atomistic Simulations
 
-**Tags:** Four-phonon scattering · Phonon renormalization · Computational Materials Science 2025
+### 1. [Considerations for ab-initio based thermal conductivity prediction of ThO₂](https://ishmtdigitallibrary.com/conferences/1654896405e56590,4869f8107409fb40,0a91fd4e3534321c.html)
 
-Effect of higher-order physics including temperature-dependent IFCs, phonon renormalization, and four-phonon scattering on the lattice thermal conductivity of ThO₂ using LDA, PBE, and PBEsol functionals. LDA and PBEsol are within 5% of experimental values at 300 K.
+Actinide oxides like uranium dioxide and mixed oxides are the primary fuel materials used in nuclear reactors around the globe. Thorium dioxide (ThO₂) is a promising material from the actinide oxide family that can be considered as an alternative to replace the aforementioned nuclear fuels. Understanding the thermal energy transport in nuclear fuel materials is crucial, as it directly impacts the safety and efficiency of nuclear reactors. In this work, ab initio calculations are used to determine the lattice thermal conductivity of ThO₂ at different temperatures. Density functional perturbation theory (DFPT) and density functional theory (DFT), along with lattice dynamics calculations, are used to predict the harmonic and anharmonic phonon properties of ThO₂, which are then used to calculate the lattice thermal conductivity of the material. The results from ab initio calculations are compared with experimentally reported values and are in good agreement. The effect of temperature-dependent inter-atomic force constants (IFC) on the predicted thermal conductivity is investigated. It is found that these temperature-dependent IFCs affect the accuracy of predicted thermal conductivity for ThO₂ crystals.
 
-[Read the full paper](https://doi.org/10.1016/j.commatsci.2025.113882)
+[Click here to read the full paper](/IHMTC_2023_final.pdf)
 
-![CMS 2025 figure](/cms2025.PNG)
-
----
-
-### 3. Studying the effect of defects on thermal energy transport in ThO₂
-
-**Tags:** Machine learning force-field · Molecular dynamics · NEP · SOAP-GAP
-
-Machine learning force-field (MLFF) assisted MD simulations to study thermal transport in ThO₂ in the presence of point defects. NEP and SOAP-GAP models tested; NEP exhibits comparatively superior performance.
-
-*Manuscript in preparation*
-
-![Defects figure](/defects.PNG)
+![](/ihmtc.PNG)
 
 ---
 
-### 4. Studying rattling-driven ultralow lattice thermal conductivity in materials
+### 2. [Revisiting thermal transport in ThO₂ using higher-order thermal transport physics](https://doi.org/10.1016/j.commatsci.2025.113882)
 
-**Tags:** Work in progress · Article under review
+The effect of inclusion of higher-order thermal transport physics (viz. temperature-dependent interatomic force constants, phonon renormalization, and four-phonon scattering) on the computation of phonon frequencies and lattice thermal conductivity of ThO₂ is explored, employing LDA, PBE, and PBEsol exchange–correlation functionals. Upon renormalization, the frequencies are stiffened for the optical phonon modes, whereas the acoustic modes remain unchanged. Thermal conductivity computed using LDA and PBEsol functionals is within 5% of the experimentally measured values at 300 K, whereas that obtained using PBE functional results in an underprediction of 25%. The temperature-dependent force constants and renormalized phonon frequencies significantly affect the computed lattice thermal conductivity at higher temperatures (40% difference at 1000 K), whereas four-phonon processes have minimal effects (only 10% at 1000 K).
 
-*Research work in progress — content will be updated after publication.*
+[Click here to read the full paper](/CompMatSci_2025.pdf)
+
+![](/cms2025.PNG)
+
+---
+
+### 3. [Studying the effect of defects on the thermal energy transport in ThO₂](/research.html)
+
+Nuclear fuels undergo irradiation during their use in the reactors, and these lead to the formation of crystal defects in the fuel material. These defects can act as additional scattering channels for the heat-carrying phonons, and in turn, limit the thermal conductivity of the material. Modelling these defects and their interaction with the heat-carrying phonons and studying their effect on the material's thermal conductivity is crucial in such cases. In this work, we use machine learning force-field (MLFF) assisted molecular dynamics (MD) simulations, to efficiently compute the thermal transport characteristics in ThO₂ in the presence of defects. We employed the widely used NEP and SOAP-GAP models to test out their accuracy for our use case. Our performance evaluations indicate robust performance for both the MLFF models, with NEP exhibiting comparatively superior performance. Our findings indicate that these models can be reliably used in conjunction with MD simulations to study thermal transport in ThO₂ in the presence of point defects.
+
+![](/defects.PNG)
 
 ---
 
-### 5. Studying guest rotational dynamics and their effect on thermal transport in MAPbI₃
+### 4. [Studying rattling-driven ultralow lattice thermal conductivity in materials](/research.html)
 
-**Tags:** Work in progress · Perovskites
+*Research work in progress; content will be updated later*
 
-*Research work in progress — content will be updated later.*
+[Article submitted for review; content will be updated later](/research.html)
 
 ---
+
+### 5. [Studying the guest rotational dynamics and their effect on thermal transport in MAPbI₃](/research.html)
+
+*Research work in progress; content will be updated later*
+
+---
+
+[← Take me back to Home page](/)
 
 [nidheesh.virakante@gmail.com](mailto:nidheesh.virakante@gmail.com)
