@@ -13,8 +13,8 @@ profile_image: /Nidheesh.jpg
 show_downloads: true
 
 # Social links (used in header buttons)
-linkedin_username: yourusername  # Replace with your LinkedIn username
-orcid_id: 0000-0000-0000-0000    # Replace with your ORCID ID
+linkedin_username: nidheesh-virakante  # Replace with your LinkedIn username
+orcid_id: 0009-0009-9513-2623    # Replace with your ORCID ID
 mrl_url: https://www.me.iitb.ac.in/~a_jain/  # Materials Research Lab URL
 cv_url: /cv.pdf  # Path to your CV (if you have one)
 
