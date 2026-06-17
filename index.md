@@ -2,14 +2,8 @@
 layout: default
 title: Nidheesh V
 description: Ph.D. Researcher · Mechanical Engineering · IIT Bombay
+profile_image: /Nidheesh.jpg
 ---
-
-<div class="topnav">
-  <a href="/">Home</a>
-  <a href="/research.html">Research</a>
-  <a href="/cv.pdf" target="_blank">CV</a>
-  <a href="mailto:nidheesh.virakante@gmail.com">Contact</a>
-</div>
 
 # About Me
 
