@@ -1,12 +1,4 @@
 title: Nidheesh V
-description: Researcher | Mechanical Engineer
-show_downloads: true
-google_analytics:
+description: Ph.D. Researcher · Mechanical Engineering · IIT Bombay
 theme: jekyll-theme-cayman
-
-github:
-  orcid_url: https://orcid.org/0009-0009-9513-2623
-  linkedin_url: https://in.linkedin.com/in/nidheesh-virakante
-  mrl_url: https://www.me.iitb.ac.in/~a_jain/
-
-
+show_downloads: false
