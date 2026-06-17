@@ -429,3 +429,84 @@ html {
 ::-webkit-scrollbar-thumb:hover {
     background: #157878;
 }
+
+
+/* ===== Research Page Buttons ===== */
+.research-btn {
+    display: inline-block;
+    background: #157878;
+    color: #ffffff;
+    padding: 0.7rem 2rem;
+    border-radius: 2rem;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.25s ease;
+    border: none;
+    box-shadow: 0 2px 12px rgba(21,120,120,0.25);
+    font-size: 0.95rem;
+}
+
+.research-btn:hover {
+    background: #0d5a5a;
+    color: #ffffff;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(21,120,120,0.35);
+    text-decoration: none;
+}
+
+.research-btn-outline {
+    display: inline-block;
+    background: transparent;
+    color: #157878;
+    padding: 0.6rem 1.8rem;
+    border-radius: 2rem;
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.25s ease;
+    border: 2px solid #157878;
+    font-size: 0.95rem;
+}
+
+.research-btn-outline:hover {
+    background: #157878;
+    color: #ffffff;
+    transform: translateY(-2px);
+    text-decoration: none;
+    box-shadow: 0 4px 16px rgba(21,120,120,0.2);
+}
+
+.research-btn-group {
+    margin: 1rem 0 1.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+}
+
+.research-footer {
+    margin-top: 2.5rem;
+    padding-top: 1.5rem;
+    border-top: 2px solid #eef5f5;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+}
+
+.research-footer a {
+    color: #157878;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.2s;
+    border-bottom: none !important;
+}
+
+.research-footer a:hover {
+    color: #0d5a5a;
+    text-decoration: none;
+    border-bottom: none !important;
+}
+
+.research-footer .divider {
+    color: #c0d6d6;
+}
