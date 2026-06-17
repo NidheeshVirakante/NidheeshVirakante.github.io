@@ -14,7 +14,7 @@ description: Ph.D. Researcher · Mechanical Engineering · IIT Bombay
 # About Me
 
 <div class="about-grid">
-  <img src="/1_1.jpg" alt="Nidheesh V" />
+  <img src="/Nidheesh.jpg" alt="Nidheesh V" />
   <div>
     <p>I am a Ph.D. researcher in Mechanical Engineering at the <a href="https://www.iitb.ac.in/">Indian Institute of Technology Bombay (IITB)</a>.</p>
     <p>I am part of the <a href="https://www.me.iitb.ac.in/~a_jain/">Materials Research Lab (MRL)</a>, where we use computational methods to predict and understand thermal energy transport in materials using ab-initio methods.</p>
