@@ -63,7 +63,25 @@ Nuclear fuels undergo irradiation during their use in the reactors, and these le
 
 ---
 
+
 ### 4. Studying rattling-driven ultralow lattice thermal conductivity in materials
+
+*Content will be updated later*
+
+<div class="research-btn-group">
+  <a href="/prb-2026.pdf" class="research-btn">📄 Read Full Paper</a>
+  <a href="https://doi.org/10.1103/wh1q-59bc" class="research-btn-outline">🔗 DOI Link</a>
+</div>
+
+---
+
+### 5. Studying the guest rotational dynamics and their effect on thermal transport in molecular crystals
+
+*Research work in progress; content will be updated later*
+
+---
+
+### 6. Considerations for four-phonon calculations in BTE-based lattice thermal conductivity computations
 
 *Research work in progress; content will be updated later*
 
@@ -71,7 +89,7 @@ Nuclear fuels undergo irradiation during their use in the reactors, and these le
 
 ---
 
-### 5. Studying the guest rotational dynamics and their effect on thermal transport in MAPbI₃
+### 7. Studying the temperature-dependence trend of lattice thermal conductivity in clathrate systems
 
 *Research work in progress; content will be updated later*
 
