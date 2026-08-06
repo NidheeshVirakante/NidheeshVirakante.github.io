@@ -25,7 +25,7 @@ My research work focuses on using atomistic simulations (lattice dynamics, molec
 
 ### 1. Considerations for ab-initio based thermal conductivity prediction of ThO₂
 
-*Published in IHMTC 2023*
+*Published in IHMTC, 2023*
 
 Actinide oxides like uranium dioxide and mixed oxides are the primary fuel materials used in nuclear reactors around the globe. Thorium dioxide (ThO₂) is a promising material from the actinide oxide family that can be considered as an alternative to replace the aforementioned nuclear fuels. Understanding the thermal energy transport in nuclear fuel materials is crucial, as it directly impacts the safety and efficiency of nuclear reactors. In this work, ab initio calculations are used to determine the lattice thermal conductivity of ThO₂ at different temperatures. Density functional perturbation theory (DFPT) and density functional theory (DFT), along with lattice dynamics calculations, are used to predict the harmonic and anharmonic phonon properties of ThO₂, which are then used to calculate the lattice thermal conductivity of the material. The results from ab initio calculations are compared with experimentally reported values and are in good agreement. The effect of temperature-dependent inter-atomic force constants (IFC) on the predicted thermal conductivity is investigated. It is found that these temperature-dependent IFCs affect the accuracy of predicted thermal conductivity for ThO₂ crystals.
 
@@ -66,6 +66,7 @@ Nuclear fuels undergo irradiation during their use in the reactors, and these le
 
 ### 4. Studying rattling-driven ultralow lattice thermal conductivity in materials
 
+*Published in Physical Review B, 2026*
 *Content will be updated later*
 
 <div class="research-btn-group">
